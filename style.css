@@ -29,7 +29,7 @@ header > h1 > span > button {
 }
 .container {
   display: flex;
-  background: url(/Assets/aerial-shot-sea-waves-seashore-during-daytime.jpg)
+  background: url(aerial-shot-sea-waves-seashore-during-daytime.jpg)
     center/cover no-repeat;
   background-size: cover;
   padding: 100px;
